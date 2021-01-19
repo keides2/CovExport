@@ -1,0 +1,31 @@
+/.vscode
+/20191223-BLE
+/20191223-NFC_APP
+/build
+/connect2.spec
+/COPY_PASTE_ERROR.errors.xml
+/Coverity 運用上の課題.mm
+/Coverity 運用上の課題.pdf
+/Coverity-言語別チェッカーの有効無効設定およびオプションのデフォルト値.xlsx
+/Coverityライセンス更新手順.pptx
+/dist
+/get+post.txt
+/iTM-HTML5
+/json
+/json2csv.py.bak
+/login-response.html
+/login.htm
+/logout-headers.txt
+/mru.json
+/mru.json-out.json.csv
+/mru2.json
+/remote_control-Coverity-Mid
+/remote_control-Coverity-Mid.txt
+/remote_control-Coverity-Mid2.txt
+/reports.js
+/response.html
+/savefile.html
+/source.html
+/table.json
+/table2.json
+/生成ルール.txt
